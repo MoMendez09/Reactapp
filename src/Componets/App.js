@@ -1,5 +1,6 @@
 import logo from "./logo.svg";
 import "./App.css";
+import BioGroup from "./Bio";
 
 function App() {
   return (

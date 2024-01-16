@@ -7,15 +7,8 @@ function App() {
   return (
     <BrowserRouter basename="/app">
       <Routes>
-        <Route path="/bio" /> {App.js}
+        <Route path="/bio" /> {}
       </Routes>
-    </BrowserRouter>
-  );
-}
-function App() {
-  return (
-    <BrowserRouter future={{ v7_startTransition: true }}>
-      <Routes>{/*...*/}</Routes>
     </BrowserRouter>
   );
 }
